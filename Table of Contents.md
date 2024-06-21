@@ -12,5 +12,6 @@
 
 **SIGN UP FOR SMARTER PROCTORING EARLY!**
 
-1. [[Limits]]
+1. [[【 2.1 - 2.6 】Limits]]
 	- Sub-Pages here
+- [[【 3.1 - 3.3 】Derivatives]]
